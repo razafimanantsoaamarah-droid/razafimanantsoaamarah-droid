@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# <img width="2912" height="1632" alt="image" src="https://github.com/user-attachments/assets/a35ce0da-c07a-45dc-bfe2-bca612a61f72" />
+## He hey 👋​: I' m Mahery Raza
 <!--
 **razafimanantsoaamarah-droid/razafimanantsoaamarah-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
